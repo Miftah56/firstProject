@@ -1,0 +1,11 @@
+body{
+    background: yellowgreen;
+    color: aqua;
+}
+#firstParagraph{
+    font-size: 36px;
+}
+.headers {
+    font-family: serif;
+    text-align: center;
+}
